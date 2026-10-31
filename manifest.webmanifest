@@ -2,15 +2,15 @@
   "name": "Biblioteca de Enfermería",
   "short_name": "Enfermería",
   "lang": "es",
-  "id": "/procedimientos-enfermeria/",
-  "start_url": "/procedimientos-enfermeria/",
-  "scope": "/procedimientos-enfermeria/",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#f7f9f8",
   "theme_color": "#17867F",
   "icons": [
     {
-      "src": "/procedimientos-enfermeria/library-icon.png",
+      "src": "/library-icon.png",
       "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any"

@@ -1,6 +1,6 @@
 # Biblioteca de Enfermería
 
-Web pública: https://enfermeriaprocedimientos.github.io/procedimientos-enfermeria/
+Web pública: https://enfermeriaprocedimientos.github.io/
 
 Biblioteca de consulta de guías y procedimientos de enfermería, sin registro.
 El contenido publicado se consulta desde Supabase al abrir la web; editar una guía
