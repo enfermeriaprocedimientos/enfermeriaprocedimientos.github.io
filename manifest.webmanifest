@@ -1,0 +1,19 @@
+{
+  "name": "Biblioteca de Enfermería",
+  "short_name": "Enfermería",
+  "lang": "es",
+  "id": "/biblioteca-enfermeria/",
+  "start_url": "/biblioteca-enfermeria/",
+  "scope": "/biblioteca-enfermeria/",
+  "display": "standalone",
+  "background_color": "#f7f9f8",
+  "theme_color": "#17867F",
+  "icons": [
+    {
+      "src": "/biblioteca-enfermeria/library-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
